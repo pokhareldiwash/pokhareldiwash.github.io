@@ -11,7 +11,7 @@ const research = [
       "A LSTM model trained on musical pieces able to generate music without any involvement of humans",
     researchYr: 2022,
     citebox: "popup1",
-    image: "assets/images/research-page/preview.png",
+    image: "assets/images/research-page/preview.jpg",
     citation: {
       vancouver:
         "cite",
